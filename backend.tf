@@ -1,6 +1,6 @@
 terraform {
 backend "s3" {
-bucket = "eks-aizada-test"
+bucket = "towe-umar"
 key = "application/us-east-1/state/stage/infrastructure.tfstate"
 region = "us-east-1"
   }
