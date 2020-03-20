@@ -4,8 +4,8 @@ subnet1 =  "subnet-d8188a82"
 subnet2 = "subnet-ed5a0a8b"
 subnet3 = "	subnet-b2be9efa"
 region = "eu-west-1"
-cluster_name = "prod"
-environment = "prod"
+cluster_name = "stage"
+environment = "stage"
 
 
 
